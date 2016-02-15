@@ -1,0 +1,8 @@
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\bin\Debug\ConsoleWcf.exe.config
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\bin\Debug\ConsoleWcf.exe
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\bin\Debug\ConsoleWcf.pdb
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\bin\Debug\HelloWcf.dll
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\bin\Debug\HelloWcf.pdb
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\obj\Debug\ConsoleWcf.csprojResolveAssemblyReference.cache
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\obj\Debug\ConsoleWcf.exe
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ConsoleWcf\obj\Debug\ConsoleWcf.pdb

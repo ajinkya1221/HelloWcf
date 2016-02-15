@@ -1,0 +1,6 @@
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ClientWcf\bin\Debug\ClientWcf.exe.config
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ClientWcf\bin\Debug\ClientWcf.exe
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ClientWcf\bin\Debug\ClientWcf.pdb
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ClientWcf\obj\Debug\ClientWcf.csprojResolveAssemblyReference.cache
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ClientWcf\obj\Debug\ClientWcf.exe
+C:\Users\abhagwat\Documents\Visual Studio 2012\Projects\HelloWcf\ClientWcf\obj\Debug\ClientWcf.pdb
