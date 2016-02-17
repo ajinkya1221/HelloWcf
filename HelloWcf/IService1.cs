@@ -12,7 +12,10 @@ namespace HelloWcf
     public interface IService1
     {
         [OperationContract]
-        string GetData(int value);
+        string RegisterUser(string username, string password);
+
+        [OperationContract]
+        string LoginUser(string username);
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);

@@ -12,15 +12,15 @@ namespace ConsoleWcf
     {
         static void Main(string[] args)
         {
-            ServiceHost host = new ServiceHost(typeof(Service1));
+            var host = new ServiceHost(typeof(Service1));
             try
             {
                 host.Open();
                 foreach (var channelDispatcher in host.ChannelDispatchers)
                 {
-                    if (channelDispatcher.Listener != null) Console.WriteLine(channelDispatcher.Listener.Uri.Port);
+                    if (channelDispatcher.Listener != null) Console.WriteLine("server is listening on port " + channelDispatcher.Listener.Uri.Port);
                 }
-                Console.WriteLine("started");
+                Console.WriteLine("press any key to exit");
                 Console.ReadLine();
                 host.Close();
             }
